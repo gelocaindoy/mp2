@@ -1,0 +1,26 @@
+
+  span.label {
+    font-weight: normal;
+    margin-top: 20px;
+    display: inline-block;
+  }
+  img.icon {
+    background: url('../img/g-normal.png') transparent 5px 50% no-repeat;
+    display: inline-block;
+    vertical-align: middle;
+    width: 42px;
+    height: 28px;
+  }
+  span.buttonText {
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 42px;
+    padding-right: 42px;
+    font-size: 14px;
+    font-weight: bold;
+
+  }
+  .loading {
+    text-align: center;
+    margin-top: 15px;
+  }

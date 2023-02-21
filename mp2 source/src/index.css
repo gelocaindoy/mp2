@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: "Poppins", sans-serif;
+}
+
+.MuiAppBar-colorPrimary {
+  color: #505050;
+}
+
+.loading {
+  text-align: center;
+  margin-top: 15px;
+}
